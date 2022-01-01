@@ -12,3 +12,7 @@ $ python generate-wordcloud.py ${input} ${output} -f ${font_path}
 
 - `${input}`: `tweet.js`, your tweets archive
 - `${output}`: a PNG image
+
+## sample
+
+![sample image](https://raw.githubusercontent.com/inaniwaudon/twitter-wordcloud/main/wordcloud.png)
